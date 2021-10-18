@@ -1,5 +1,8 @@
 # DYOR
 
+##Team Members:
+Hanzalla Usman, Shashank Silwal, Desmond Ofori Atta, Abdullah Javaid Chaudhry, Talal Said, Umair Shah
+
 ## What and why?
 
 DYOR is a NOT-A-FINANCIAL-APP Financial App, with there being no transactions involved in the app. Instead, DYOR is a service that seeks to enable investment in the Crypto and Equity markets. The Crypto market has become increasingly dangerous (with the manipulation of prices by notable personalities, “false” signal groups that are in truth Pump-and-Dumps, and sh*t coins), and there have been several casualties to this danger (members of this group included with regards to DOGE). DYOR seeks to make portfolio management and investment research easier for users of the Web-App, through the maintenance of a “Paper Portfolio” wherein users input the details for their present open positions so that they may keep track of the same, and the therein Profit/Loss with dynamic graphs (TradingView API) through a convenient Web-App as opposed to manual calculations as would be the case for hardware wallets, and without the inconvenience of multiple factor authentication (requiring a picture, OTP, password, captcha) only usable on verified devices as would be the case for a reputable exchange application. Beyond that, users would be provided with an alternate “Practice Portofolio” wherein they would be provided false dollars so that they make paper-trades and avoid financial losses as they learn. This enables a certain ease for investment maintenance, and alternate eases are to come in the form of more accessible research.
